@@ -90,3 +90,5 @@ PCB & Plug
 Finished Project with top options ready for your circuit!
 ![Finished](images/finished_with_top_options.jpg)
 
+
+<meta name="google-site-verification" content="bPgTVfkKqwiWPwGhhLyjiT7eWcMrEWbVD95fiMOTNNs" />
