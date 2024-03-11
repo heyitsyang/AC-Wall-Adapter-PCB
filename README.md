@@ -1,6 +1,7 @@
 # AC Wall Adapter PCB for IoT
 An AC wall adapter PCB to power &amp; consolidate your IoT & DIY project into a single housing without resorting to an ugly USB phone charger
 
+![Finished](images/finished_with_top_options.jpg)
 <br>
 
 ## Bill of Materials
@@ -12,16 +13,16 @@ Required components:
 - Qty 1 - US AC two-prong plug (included with PCB order)
 - Qty 1 - F1 - Miniature PCB Fuse 0.5A, 250V slow blow - rectangular or TR5/5TR style (ex. Littlefuse 37205000001)
 - Qty 1 - AC-DC Converter module - Hi-Link HLK PMXX or 5MXX series
-- Qty 1 - 3D printed enclosure
+- Qty 1 - 3D printed enclosure - see link below
 
   
-Components for EMI suppression, surge protection, & power indication:
+Optional components for EMI suppression, surge protection, & power indication:
 - Qty 1 - RV1 - Varistor 10D561K (ex. Bourns MOV-10D561K)
 - Qty 1 - L1 - Common mode choke inductor 10mH or 15mH, 500mA min, 270V (ex. Wurth 74482111)
 - Qty 1 - C1 - 0.1uF, 275VAC polypropylene capacitor (ex. MEX/TENTA 275V104P10)
 - Qty 1 - C2 - 220uF, 35V capacitor
 - Qty 1 - D1 - LED
-- Qty 1 - R1 - Resistor, use value suitable for +Vout & D1
+- Qty 1 - R1 - Resistor, use value suitable for +Vout & LED
 
 
 <br>
@@ -86,6 +87,6 @@ Correct AC plug orientation shown from front side of PCB
 PCB & Plug
 ![PCB](images/stuffed_notstuffed.jpg)
 
-Finished Project with top options
+Finished Project with top options ready for your circuit!
 ![Finished](images/finished_with_top_options.jpg)
 
