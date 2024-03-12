@@ -1,5 +1,5 @@
 # AC Wall Adapter PCB for IoT
-An AC wall adapter PCB to power &amp; consolidate your IoT & DIY project into a single housing without resorting to an ugly USB phone charger
+An AC wall adapter PCB to power &amp; consolidate your IoT & DIY project into a single housing without resorting to an ugly USB phone charger.  Put your project in a single, elegant enclosure and away from kids and pets.
 <br>
 
 ![Finished](images/finished_with_top_options.jpg)
